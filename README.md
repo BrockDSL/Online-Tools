@@ -30,7 +30,7 @@ Provides Git functionality from the command line and a Bash shell.
 [https://git-scm.com/download/win](https://git-scm.com/download/win)  
   
 ## Gephi  
-Open source visualization and exploration software for graphs and netwirk style data sets
+Open source visualization and exploration software for graphs and netwirk style data sets  
 [https://gephi.org/](https://gephi.org/)  
   
 ## MATLAB  
