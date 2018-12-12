@@ -1,4 +1,4 @@
-(DSL logo)[]
+![DSL Logo](dsl_logo.png)
 
 # The Tools  
 These are the tools that we at the DSL have given our seal of approval!  
