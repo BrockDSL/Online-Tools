@@ -1,6 +1,10 @@
-  
+(DSL logo)[]
+
+# The Tools  
+These are the tools that we at the DSL have given our seal of approval!  
+
 -----
-  
+
 ## Anaconda  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
 https://www.anaconda.com/  
