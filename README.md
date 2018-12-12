@@ -1,12 +1,13 @@
-# Desktop Programs In The DSL
+# The Tools  
+These are the tools that we at the DSL have given our seal of approval!  
   
 ---------------------------------
   
-#### Anaconda  
+## Anaconda  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
 https://www.anaconda.com/  
   
-### AntConc  
+## AntConc  
 AntConc is a program for analysing electronic texts in order to find and reveal patterns in language.  
 http://www.laurenceanthony.net/software/antconc/  
   
@@ -14,7 +15,7 @@ http://www.laurenceanthony.net/software/antconc/
 ArcGis is a Geographic Information System that simplifies working with geographic and map data.  
 https://www.arcgis.com/index.html  
   
-# Chocolatey  
+## Chocolatey  
 Package manager for windows that lets you quickly install aplications and tools.  
 https://chocolatey.org/  
   
@@ -22,28 +23,28 @@ https://chocolatey.org/
 DB Browser for SQLite ia a graphic user interface for SQLite.  
 http://sqlitebrowser.org/  
   
-### Git For Windows  
+## Git For Windows  
 Provides Git functionality from the command line and a Bash shell.  
 https://git-scm.com/download/win  
   
-### Gephi  
+## Gephi  
 Open source visualization and exploration software for graphs and netwirk style data sets
 https://gephi.org/  
   
-### MATLAB  
+## MATLAB  
 Analysis and design tool for data  
 https://www.mathworks.com/products/matlab.html  
   
-### Mallet  
+## Mallet  
 Language and text analysis tool  
 http://mallet.cs.umass.edu/  
   
-### OpenRefine  
+## OpenRefine  
 Useful tool for sorting and cleaning data  
 http://openrefine.org/  
   
-### Python 3.X  IDE  
+## Python 3.X  IDE  
 Popular programing language  
 https://www.python.org/  
   
-### 
+## 
