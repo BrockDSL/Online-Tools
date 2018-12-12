@@ -1,6 +1,6 @@
 # Desktop Programs In The DSL
   
-  
+---------------------------------
   
 **Anaconda**  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
