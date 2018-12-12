@@ -19,7 +19,7 @@ https://www.arcgis.com/index.html
 Package manager for windows that lets you quickly install aplications and tools.  
 https://chocolatey.org/  
   
-### DB Browser for SQLite  
+## DB Browser for SQLite  
 DB Browser for SQLite ia a graphic user interface for SQLite.  
 http://sqlitebrowser.org/  
   
