@@ -7,11 +7,11 @@ These are the tools that we at the DSL have given our seal of approval!
 
 ## Anaconda  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
-https://www.anaconda.com/  
+[https://www.anaconda.com/](https://www.anaconda.com/)  
   
 ## AntConc  
 AntConc is a program for analysing electronic texts in order to find and reveal patterns in language.  
-http://www.laurenceanthony.net/software/antconc/  
+[http://www.laurenceanthony.net/software/antconc/](http://www.laurenceanthony.net/software/antconc/)  
   
 ## ArcGis  
 ArcGis is a Geographic Information System that simplifies working with geographic and map data.  
