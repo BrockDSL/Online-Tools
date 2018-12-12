@@ -6,15 +6,15 @@
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
 https://www.anaconda.com/  
   
-### AntConc  
+## AntConc  
 AntConc is a program for analysing electronic texts in order to find and reveal patterns in language.  
 http://www.laurenceanthony.net/software/antconc/  
   
-### ArcGis  
+# ArcGis  
 ArcGis is a Geographic Information System that simplifies working with geographic and map data.  
 https://www.arcgis.com/index.html  
   
-### Chocolatey  
+#### Chocolatey  
 Package manager for windows that lets you quickly install aplications and tools.  
 https://chocolatey.org/  
   
